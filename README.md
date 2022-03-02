@@ -1,7 +1,7 @@
 # Lab 1.: Wprowadzenie. Manipulowanie obrazem w Java. 
 
 
-Dzisiejsze ćwiczenia skupiają się na używaniu obiektów z klasy ```BufferedImage```, które będą 
+Dzisiejsze ćwiczenia skupiają się na używaniu obiektów z klasy ```BufferedImage```. Będą one wykorzystywane na kolejnych kilku laboratoriach i posłużą do obsługi zapisywania i odczytywania pikseli obrazów (które będziemy tworzyć za pomocą własnych algorytmów).
 
 Klasa  ```BufferedImage``` dostarcza dwóch istotnych metod, którymi możemy modyfikować wartości pikseli:
 --- 
